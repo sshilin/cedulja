@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Pinned design: do not change without the owner's confirmation (see CLAUDE.md, Theming). -->
+  <rect width="512" height="512" rx="96" fill="#f6f5f2"/>
+  <rect x="152" y="88" width="272" height="136" rx="24" fill="#fff" stroke="#dadce0" stroke-width="8"/>
+  <rect x="152" y="288" width="272" height="136" rx="24" fill="#fff" stroke="#dadce0" stroke-width="8"/>
+  <rect x="96" y="248" width="328" height="16" rx="8" fill="#d93025"/>
+  <rect x="88" y="228" width="72" height="56" rx="16" fill="#d93025"/>
+  <rect x="184" y="132" width="168" height="16" rx="8" fill="#5f6368"/>
+  <rect x="184" y="164" width="120" height="16" rx="8" fill="#5f6368"/>
+  <rect x="184" y="332" width="200" height="16" rx="8" fill="#5f6368"/>
+  <rect x="184" y="364" width="96" height="16" rx="8" fill="#5f6368"/>
+</svg>
